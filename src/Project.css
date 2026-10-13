@@ -1,0 +1,38 @@
+/* input{
+    width: 30%;
+    margin: 2%;
+    border-radius: 30px
+}
+form{
+
+    width:30%;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom:1px ;
+    margin: 200px;
+    margin-left:400px ;
+    background-color: aquamarine ;
+}
+button{
+  border-radius: 20px;
+  color: blue;
+  background-color: blueviolet;
+} */
+ .naveen{
+    text-align: center;
+    border: 4px solid black;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+ }
+ .input1{
+    margin: 3%;
+    background-color: rgb(199, 228, 248);
+    border-radius: 100px;
+    border: 2px solid rgb(41, 2, 56);
+ }
+ .gv{
+    border: 1px solid black;
+ }

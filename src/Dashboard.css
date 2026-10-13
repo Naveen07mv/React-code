@@ -1,0 +1,35 @@
+.dark{
+  background:black;
+  color:white;
+}
+button{
+  margin:5px;
+  padding:5px 10px;
+  cursor:pointer;
+}
+input{
+  padding:7px;
+  margin-right:5px;
+}
+select{
+  padding:7px;
+  margin-right:5px;
+}
+.dark .task{
+  background:white;
+  color:black;
+}
+
+.high{
+  color:red;
+  font-weight:bold;
+}
+
+.medium{
+  color:orange;
+  font-weight:bold;
+}
+.low{
+  color:green;
+  font-weight:bold;
+}

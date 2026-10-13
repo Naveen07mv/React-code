@@ -1,0 +1,42 @@
+
+.project-page{
+    min-height:85vh;
+    padding:30px;
+    background-color:  rgb(133, 212, 212);
+    font-family:Arial,sans-serif;
+    text-align:center;
+    box-sizing:border-box;
+}
+
+.project-page h1{
+    color:rgb(239, 243, 6);
+    margin-bottom:30px;
+}
+
+.project-container{
+    max-width:1000px;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+}
+
+.project-card{
+    background-color:#f5f5f5;
+    padding:25px;
+    border-radius:15px;
+    border:2px solid black;
+    text-align:left;
+}
+
+.project-card h2{
+    color:#7020c9;
+    font-size:22px;
+}
+
+.project-card p{
+    color:#333;
+    font-size:16px;
+    line-height:1.6;
+}
+

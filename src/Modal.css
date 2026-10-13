@@ -1,0 +1,22 @@
+.modalbox1{
+    border: 2px solid black;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(102, 6, 211);
+    text-align:center;
+    margin-left: 580px;
+    margin-top: 10px;
+    font-size: 28px;
+}
+.mb{
+        text-align:center;
+        background-color: aqua;
+        height: 100vh;
+
+}
+.bm{
+    background-color: rgb(222 5 107);
+    text-align: center;
+    border-radius: 20px;
+    
+}

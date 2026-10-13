@@ -1,0 +1,44 @@
+.login_taskbody{
+    padding-top: 20px;
+     background-image: url(D:\MERN\react-app\public\loginImage.jpeg);
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height: 100vh;
+    width: 100%; 
+}   
+.inputform{}    
+.inputform{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(184, 200, 235);
+    margin-top: 70px; 
+    margin-left: 500px;
+    margin-right: 500px; 
+    margin-bottom: 140px;
+    text-align: center;
+
+}   
+.loginlable{
+ display:block;
+  margin-bottom:6px;
+  font-size:16px;
+  color:rgb(10, 1, 1);
+}
+.inputlogin{
+  width:60%;
+  padding:10px;
+  margin-bottom:15px;
+  border:1px solid #5bbbfc;
+  border-radius:5px;
+  box-sizing:border-box;
+  font-size:15px;
+}
+.buttonlogin{
+    background-color: rgba(131, 31, 72, 0.952);
+    border-radius: 30px;
+    width: 30%;
+}
+.text1{
+    color: blue;
+}

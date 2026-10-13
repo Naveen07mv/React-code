@@ -1,0 +1,45 @@
+.forget{
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+.forget:hover{
+    color: black;
+    text-decoration: underline;
+    cursor: grab;
+    font-size: 15px;
+}
+button{
+    color: rgb(40, 63, 165);
+    width: 15%;
+    size: 20px;
+    
+}
+
+button:hover{
+    color: brown;
+}
+
+body{
+    background: url('./tech.jpg');
+    background-size: cover;
+}
+
+.full{
+    border: 2px solid white;
+    width: 40%;
+    color: rgb(223, 237, 99);
+    height: 7cm;
+    border-radius: 20px;
+    margin-top: 8%;
+    
+}
+
+.sign{
+    color: white;
+}
+h1{
+    color:white;
+}
+
