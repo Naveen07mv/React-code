@@ -1,6 +1,6 @@
 function StudentCard({ student }) {
     return (
-        <div style={{ border: "2px solid black", marginLeft: "500px", marginRight: "500px",  }}>
+        <div style={{ border: "2px solid black", marginLeft: "500px", marginRight: "500px", backgroundColor:"lavender" }}>
             <h3>Name: {student.name}</h3>
             <p><strong>Username:</strong> {student.username}</p>
             <p><strong>Email:</strong> {student.email}</p>

@@ -52,7 +52,7 @@ function App() {
     <div>
       <center>
       <h1>Student Directory</h1>
-      <form onSubmit={handleSubmit}style={{ border: "2px solid black",marginLeft: "500px", marginRight: "500px",padding:"4n0px",}}>
+      <form onSubmit={handleSubmit}style={{ border: "2px solid black",marginLeft: "500px", marginRight: "500px",padding:"4n0px",backgroundColor:"gray"}}>
        <input onChange={change} name="name" placeholder='enter a name'/>
        <span style={{color:"red"}}>{error.nameError}</span><br/>
        <input onChange={change} name="name" placeholder='enter a email'/>
