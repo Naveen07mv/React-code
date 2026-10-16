@@ -1,0 +1,40 @@
+.otp-container{
+    width:350px;
+    margin:100px auto;
+    padding:30px;
+    text-align:center;
+    background:white;
+    box-shadow:0 0 10px gray;
+    border-radius:10px;
+}
+
+.otp-container h1{
+    color:blue;
+}
+
+.otp-container input{
+    width:90%;
+    padding:12px;
+    margin:15px 0;
+    border:1px solid gray;
+    border-radius:5px;
+    font-size:16px;
+}
+
+.otp-container button{
+    padding:10px 20px;
+    margin:10px;
+    background:blue;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.otp-container button:hover{
+    background:darkblue;
+}
+
+.otp-container p{
+    font-weight:bold;
+}
